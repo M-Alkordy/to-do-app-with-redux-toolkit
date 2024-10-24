@@ -1,0 +1,17 @@
+.todoCard{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 2px solid gray;
+    margin: 20px 0;
+}
+
+.todoCard.incompleted{
+    background-color: rgb(255, 111, 111);
+    color: white;
+}
+
+.todoCard.completed{
+    background-color: rgb(126, 249, 85);
+    color: white;
+}

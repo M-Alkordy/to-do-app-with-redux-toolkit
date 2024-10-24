@@ -1,0 +1,15 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.add{
+    width: max-content;
+    margin: 20px auto;
+}
+
+.add input{
+    margin: 0 10px;
+}
